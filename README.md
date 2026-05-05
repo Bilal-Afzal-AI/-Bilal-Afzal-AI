@@ -1,12 +1,11 @@
-# 💫 About Me:
-I’m Bilal Afzal, a Software & AI/ML Engineer with hands-on experience building intelligent systems and scalable applications.
+I’m Bilal Afzal, a Software & AI/ML Engineer passionate about building intelligent, real-world solutions. I started in data analysis and transitioned into machine learning to develop systems that predict, automate, and scale.
 
-💼 Currently working as an ML/AI Engineer Intern at Developer Hub Corporation
-🔭 Working on: LLM fine-tuning and scalable AI-powered APIs
-🌱 Learning: MLOps, deep learning optimization, and production deployment
-⚡ Core skills: Python, PyTorch, TensorFlow, software architecture, and cloud deployment
+💼 ML/AI Engineer Intern at Developer Hub Corporation
+🔭 Working on LLM fine-tuning, RAG pipelines (using vector databases and retrieval frameworks like LangChain), Agentic AI workflows, and scalable AI APIs
+🌱 Learning MLOps and deep learning optimization
+⚡ Skills: Python, PyTorch, TensorFlow, Scikit-learn, FastAPI, and cloud deployment
 
-I focus on developing end-to-end machine learning solutions—from data processing and model training to deployment—ensuring performance, scalability, and real-world impact.
+I focus on building end-to-end ML systems—from data processing to deployment—while creating dashboards with Power BI and Tableau for clear, actionable insights.
 
 
 ## 🌐 Socials:
